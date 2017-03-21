@@ -1,0 +1,11 @@
+{
+  "require": {
+    "symfony/console": "2.6.4",
+    "league/csv": "7.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mazury\\": "src"
+    }
+  }
+}
