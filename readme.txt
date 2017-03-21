@@ -25,7 +25,7 @@ or short version:
 
 For example, to convert csv file to html type:
 
-	$ php run.php -i csv -output html
+	$ php run.php -i csv -o html
 
 #################################################################
 #								#
